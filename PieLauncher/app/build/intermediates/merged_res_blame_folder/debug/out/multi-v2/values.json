@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\@test\\android\\PieLauncher\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,2,1,4",
+                        "startColumns": "1,1,1,1",
+                        "startOffsets": "117,69,14,173",
+                        "endColumns": "54,46,53,38",
+                        "endOffsets": "170,114,66,210"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,113,163,220",
+                        "endColumns": "57,49,56,41",
+                        "endOffsets": "108,158,215,257"
+                    }
+                },
+                {
+                    "source": "E:\\@test\\android\\PieLauncher\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "7,1",
+                        "startColumns": "1,1",
+                        "startOffsets": "329,14",
+                        "endLines": "13,6",
+                        "endColumns": "9,9",
+                        "endOffsets": "688,326"
+                    },
+                    "to": {
+                        "startLines": "12,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "1077,1435",
+                        "endLines": "18,24",
+                        "endColumns": "9,9",
+                        "endOffsets": "1430,1742"
+                    }
+                },
+                {
+                    "source": "E:\\@test\\android\\PieLauncher\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,6,5,4,2,3",
+                        "startColumns": "1,1,1,1,1,1",
+                        "startOffsets": "14,733,288,222,62,148",
+                        "endColumns": "46,82,443,64,84,72",
+                        "endOffsets": "59,814,730,285,145,219"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "262,312,398,845,913,1001",
+                        "endColumns": "49,85,446,67,87,75",
+                        "endOffsets": "307,393,840,908,996,1072"
+                    }
+                }
+            ]
+        }
+    ]
+}

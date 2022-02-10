@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:1:1-61:12
+	package
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:4:2-46
+		INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:1:1-61:12
+		INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:3:2-48
+	android:versionCode
+		INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:1:1-61:12
+		INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:2:2-60
+	android:installLocation
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:5:2-32
+supports-screens
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:6:2-8:33
+	android:largeScreens
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:7:3-30
+	android:xlargeScreens
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:8:3-31
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:11:2-12:47
+	tools:ignore
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:12:3-44
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:11:19-71
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:14:2-91
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:14:19-89
+application
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:15:2-60:16
+	android:supportsRtl
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:20:3-29
+	android:label
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:21:3-35
+	android:fullBackupContent
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:19:3-48
+	tools:ignore
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:16:3-33
+	android:icon
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:22:3-37
+	android:allowBackup
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:18:3-29
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:17:3-37
+activity#de.markusfisch.android.pielauncher.activity.HomeActivity
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:23:3-56:14
+	android:clearTaskOnLaunch
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:27:4-36
+	android:stateNotNeeded
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:28:4-33
+	android:label
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:25:4-36
+	android:excludeFromRecents
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:30:4-37
+	android:launchMode
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:26:4-35
+	android:theme
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:31:4-36
+	android:taskAffinity
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:29:4-27
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:24:4-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:32:4-37:20
+action#android.intent.action.MAIN
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:33:5-56
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:33:13-54
+category#android.intent.category.LAUNCHER
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:34:5-64
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:34:15-62
+category#android.intent.category.DEFAULT
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:35:5-63
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:35:15-61
+category#android.intent.category.HOME
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:36:5-60
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:36:15-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.markusfisch.de+data:scheme:http
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:38:4-45:20
+action#android.intent.action.VIEW
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:39:5-56
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:39:13-54
+category#android.intent.category.BROWSABLE
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:41:5-65
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:41:15-63
+data
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:42:5-44:29
+	android:host
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:43:6-39
+	android:scheme
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:44:6-27
+intent-filter#action:name:android.intent.action.ASSIST+category:name:android.intent.category.DEFAULT
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:46:4-49:20
+action#android.intent.action.ASSIST
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:47:5-58
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:47:13-56
+intent-filter#action:name:android.content.pm.action.CONFIRM_PIN_SHORTCUT
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:50:4-52:20
+action#android.content.pm.action.CONFIRM_PIN_SHORTCUT
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:51:5-76
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:51:13-74
+meta-data#com.android.systemui.action_assist_icon
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:53:4-55:47
+	android:resource
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:55:5-45
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:54:5-59
+activity#de.markusfisch.android.pielauncher.activity.BatteryOptimizationActivity
+ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:57:3-59:38
+	android:theme
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:59:4-36
+	android:name
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:58:4-56
+uses-sdk
+INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+		ADDED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml

@@ -1,0 +1,76 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+//    ndkVersion '16.1.4479499'
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        externalNativeBuild {
+            cmake {
+                cppFlags "-frtti -fexceptions"
+            }
+
+        }
+
+//        sourceSets {
+//            main {
+//                // The libs directory contains prebuilt libraries that are used by the
+//                // app's library defined in CMakeLists.txt via an IMPORTED target.
+//                jniLibs.srcDirs = ['libs']
+//            }
+//        }
+
+    }
+
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles.add(file("proguard-rules.pro"))
+        }
+    }
+
+    def USING_NDK = false // if you want to build with CMakelist,set false.
+
+    externalNativeBuild {
+        if (USING_NDK) {
+            //selection 1  this used obfuscator to obfuscate the native code
+            ndkBuild {
+//                path file("src/main/jni/Android.mk")
+//                path file("src/main/jni/OriginAndroid.mk")
+//                path file("src/main/jni/OriginAndroid_r13_mac.mk")
+//                path file("src/main/jni/OriginAndroid_r16_mac.mk")
+//                path file("src/main/jni/OriginAndroid_r22_mac.mk")
+                path file("src/main/jni/OriginAndroid_r16_ubuntu.mk")
+            }
+        } else {
+            //selection 2   the selection doesn't obfuscate native code   **** i don't recommend using cmake*****
+            cmake {
+                path "CMakeLists.txt"
+            }
+        }
+    }
+
+
+}
+
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    implementation 'com.android.support:appcompat-v7:25.0.1'
+    // Required for local unit tests (JUnit 4 framework)
+    implementation 'junit:junit:4.12'
+
+    // Required for instrumented tests
+    androidTestImplementation 'com.android.support:support-annotations:24.0.0'
+    androidTestImplementation 'com.android.support.test:runner:0.5'
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "E:\\@test\\android\\PieLauncher\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "from": {
+                        "startLines": "1,6,5,4,2,3",
+                        "startColumns": "1,1,1,1,1,1",
+                        "startOffsets": "14,417,237,185,57,125",
+                        "endColumns": "41,60,178,50,66,58",
+                        "endOffsets": "54,476,414,234,122,182"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,100,164,346,400,470",
+                        "endColumns": "44,63,181,53,69,61",
+                        "endOffsets": "95,159,341,395,465,527"
+                    }
+                }
+            ]
+        }
+    ]
+}

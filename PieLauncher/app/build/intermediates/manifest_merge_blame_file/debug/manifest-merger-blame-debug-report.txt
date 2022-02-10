@@ -1,0 +1,132 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.markusfisch.android.pielauncher.debug"
+4    android:installLocation="auto"
+5    android:versionCode="19"
+6    android:versionName="1.12.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="9"
+9-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:6:2-8:33
+13        android:largeScreens="true"
+13-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:7:3-30
+14        android:xlargeScreens="true" />
+14-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:8:3-31
+15    <!-- A launcher app needs to be able to query all packages. -->
+16    <!-- For details see: https://developer.android.com/training/basics/intents/package-visibility#all-apps -->
+17    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+17-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:11:2-12:47
+17-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:11:19-71
+18    <!-- A launcher app should be available all the time. -->
+19    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+19-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:14:2-91
+19-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:14:19-89
+20
+21    <application
+21-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:15:2-60:16
+22        android:name="de.markusfisch.android.pielauncher.app.PieLauncherApp"
+22-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:17:3-37
+23        android:allowBackup="true"
+23-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:18:3-29
+24        android:debuggable="true"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:19:3-48
+26        android:icon="@mipmap/ic_launcher"
+26-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:22:3-37
+27        android:label="@string/app_name"
+27-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:21:3-35
+28        android:supportsRtl="true"
+28-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:20:3-29
+29        android:testOnly="true" >
+30        <activity
+30-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:23:3-56:14
+31            android:name="de.markusfisch.android.pielauncher.activity.HomeActivity"
+31-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:24:4-41
+32            android:clearTaskOnLaunch="true"
+32-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:27:4-36
+33            android:excludeFromRecents="true"
+33-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:30:4-37
+34            android:label="@string/app_name"
+34-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:25:4-36
+35            android:launchMode="singleTask"
+35-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:26:4-35
+36            android:stateNotNeeded="true"
+36-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:28:4-33
+37            android:taskAffinity=""
+37-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:29:4-27
+38            android:theme="@style/HomeTheme" >
+38-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:31:4-36
+39            <intent-filter>
+39-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:32:4-37:20
+40                <action android:name="android.intent.action.MAIN" />
+40-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:33:5-56
+40-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:33:13-54
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:34:5-64
+42-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:34:15-62
+43                <category android:name="android.intent.category.DEFAULT" />
+43-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:35:5-63
+43-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:35:15-61
+44                <category android:name="android.intent.category.HOME" />
+44-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:36:5-60
+44-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:36:15-58
+45            </intent-filter>
+46            <intent-filter>
+46-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:38:4-45:20
+47                <action android:name="android.intent.action.VIEW" />
+47-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:39:5-56
+47-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:39:13-54
+48
+49                <category android:name="android.intent.category.DEFAULT" />
+49-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:35:5-63
+49-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:35:15-61
+50                <category android:name="android.intent.category.BROWSABLE" />
+50-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:41:5-65
+50-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:41:15-63
+51
+52                <data
+52-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:42:5-44:29
+53                    android:host="www.markusfisch.de"
+53-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:43:6-39
+54                    android:scheme="http" />
+54-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:44:6-27
+55            </intent-filter>
+56            <intent-filter>
+56-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:46:4-49:20
+57                <action android:name="android.intent.action.ASSIST" />
+57-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:47:5-58
+57-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:47:13-56
+58
+59                <category android:name="android.intent.category.DEFAULT" />
+59-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:35:5-63
+59-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:35:15-61
+60            </intent-filter>
+61            <intent-filter>
+61-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:50:4-52:20
+62                <action android:name="android.content.pm.action.CONFIRM_PIN_SHORTCUT" />
+62-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:51:5-76
+62-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:51:13-74
+63            </intent-filter>
+64
+65            <meta-data
+65-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:53:4-55:47
+66                android:name="com.android.systemui.action_assist_icon"
+66-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:54:5-59
+67                android:resource="@drawable/ic_launcher" />
+67-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:55:5-45
+68        </activity>
+69        <activity
+69-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:57:3-59:38
+70            android:name="de.markusfisch.android.pielauncher.activity.BatteryOptimizationActivity"
+70-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:58:4-56
+71            android:theme="@style/HomeTheme" />
+71-->E:\@test\android\PieLauncher\app\src\main\AndroidManifest.xml:59:4-36
+72    </application>
+73
+74</manifest>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "E:\\@test\\android\\PieLauncher\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "from": {
+                        "startLines": "2,7,6,5,3,4",
+                        "startColumns": "1,1,1,1,1,1",
+                        "startOffsets": "54,919,365,292,102,205",
+                        "endColumns": "46,94,552,71,101,85",
+                        "endOffsets": "99,1012,916,362,202,289"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,105,203,759,834,939",
+                        "endColumns": "49,97,555,74,104,88",
+                        "endOffsets": "100,198,754,829,934,1023"
+                    }
+                }
+            ]
+        }
+    ]
+}

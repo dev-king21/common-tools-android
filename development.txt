@@ -1,0 +1,84 @@
+Utility & Productivity Apps
+
+App Locker + Smart Launcher 
++ (
+	Gesture Launcher
+	Voice Launcher
+)	
+
+https://github.com/LawnchairLauncher/lawnchair
+https://github.com/Neamar/KISS
+https://github.com/lposidon/posidonLauncher
+https://github.com/OpenLauncherTeam/openlauncher
+https://github.com/otakuhqz/Omega
+
+App Locker
+	Group Locker: set as group
+	Single Locker: set individually
+	
+	Locker Type: Pattern, Pin, Biometrics(Fingerprint, FaceRecognition, Iris Scanning)
+	Hidden Apps: it hides on launcher
+	Theme: 
+		Main Background
+		Dots and NumberPad Design
+				
+Smart Launcher
+	https://play.google.com/store/apps/details?id=com.ss.edgegestures
+	https://play.google.com/store/apps/details?id=org.de_studio.recentappswitcher.trial
+	https://play.google.com/store/apps/details?id=com.agooday.fullscreengestures
+	
+	https://github.com/RubiTree/Full-Screen-Gesture
+	https://github.com/ikew0ng/SwipeBackLayout
+	https://github.com/natario1/CameraView
+	https://github.com/alexvasilkov/GestureViews	
+	https://github.com/Almeros/android-gesture-detectors
+	
+	Setting:
+		Screen Orientation
+		Gesture Edge:
+			Left, 		
+			Right, 		
+			Bottom, 	
+			Common
+			
+		Gesture Type:
+			Tap, 			// Disable until next touch 
+			Double Tap, 	// Disable for 5 seconds
+			Triple Tap, 	
+			Long Press, 
+			Swipe,
+			Swipe and hold, 
+			Pull and Slide,
+			Pie Launcher
+			
+			
+		Action Type:
+			Clear,
+			Application,
+			Expand Notifications Channel,
+			Expand Quick Settings,
+			Home,
+			Back,
+			Recent Apps,
+			Lock Screen,	
+			Switch to the previous app.		
+
+		Edge Gestures
+			Thickness: 15
+			Length of Vertical Edge: 30
+			Offset of Vertical Edge: 0
+			Length of Horizontal Edge: 90
+			
+		
+		Disalbe Apps
+			App List for disable
+			
+			
+			
+ToDo List App + 
+Notifications (Send + Sms Call) + 
+Calendar +
+Emoji + 
+Voice Mimic + 
+Play Music
+				

@@ -1,0 +1,68 @@
+title: table zt_project
+author: Zhu Jinyong
+version: "1.0"
+fields:
+  - field: project
+    range: 0
+  - field: model
+    range: scrum{30},waterfall{30},kanban{30}
+  - field: name
+    note: "名称"
+    fields:
+    - field: name1
+      range: '项目'
+    - field: name2
+      range: 1-10000
+  - field: type
+    range: project
+  - field: status
+    range: wait{2},doing{4},suspended,closed
+  - field: lifetime
+    range:
+  - field: budget
+    range: 0
+  - field: budgetUnit
+    range: CNY,USD
+  - field: attribute
+    note: "Only stage has attribute"
+    range:
+  - field: percent
+    range: 1-100:R
+  - field: milestone
+    note: "Is it milestone"
+    range: 0
+  - field: output
+    note: "Output document"
+    range:
+  - field: auth
+    note: "Only project has auth"
+    range:
+  - field: parent
+    range: 1-10
+  - field: grade
+    range:
+  - field: code
+    range: 1-10000
+    prefix: "project"
+  - field: begin
+    from: common.date.v1.yaml
+    use: date
+  - field: end
+    from: common.date.v1.yaml
+    use: date
+  - field: PO
+    range:
+  - field: PM
+    range:
+  - field: QD
+    range:
+  - field: RD
+    range:
+  - field: team
+    range:
+  - field: acl
+    range: open,private,custom
+  - field: order
+    range: 5-10000:5
+  - field: deleted
+    range: 0

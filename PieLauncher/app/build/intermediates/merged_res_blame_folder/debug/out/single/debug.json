@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_done.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_info.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_info.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_done.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\mipmap-ldpi_ic_launcher.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\src\\debug\\res\\mipmap-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_remove.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launch_first.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launch_first.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_info.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_info.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_done.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_done.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\src\\debug\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_info.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_battery_alert.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_battery_alert.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_battery_alert.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_battery_alert.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_info.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_info.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_remove.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_battery_alert.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_battery_alert.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_add.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_remove.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_info.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_remove.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\src\\debug\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_done.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_done.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add.xml"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_done.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_done.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launch_first.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launch_first.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_add.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_battery_alert.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_battery_alert.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\src\\debug\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launch_first.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launch_first.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_battery_alert.xml.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_battery_alert.xml"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_battery_optimization.xml.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\src\\main\\res\\layout\\activity_battery_optimization.xml"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launch_first.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launch_first.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_add.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_add.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_add.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\xml_backup_rules.xml.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\src\\main\\res\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\src\\debug\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\src\\debug\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_remove.xml.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_remove.xml"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_info.xml.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info.xml"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_battery_alert.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_battery_alert.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher.xml.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launch_first.xml.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launch_first.xml"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_remove.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_remove.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launch_first.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launch_first.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_done.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_done.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_battery_alert.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_battery_alert.png"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_done.xml.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_done.xml"
+    },
+    {
+        "merged": "E:\\@test\\android\\PieLauncher\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launch_first.png.flat",
+        "source": "E:\\@test\\android\\PieLauncher\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launch_first.png"
+    }
+]

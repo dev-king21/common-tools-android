@@ -1,0 +1,118 @@
+@import 'helpers'
+
+.op-wp-single-card
+  display: flex
+  user-select: none
+  width: 100%
+  border: 1px solid var(--widget-box-block-border-color)
+  border-radius: 2px
+  padding: 10px
+  position: relative
+  box-shadow: 1px 1px 3px 0px lightgrey
+  background: var(--body-background)
+  font-size: var(--card-font-size)
+
+  &:hover
+    box-shadow: 0px 0px 10px lightgrey
+
+  &_new
+    padding-right: 25px
+
+  &_checked
+    background-color: var(--table-row-highlighting-color)
+
+  &_horizontal
+    height: 100%
+
+  &_vertical
+    margin-top: 10px
+    // Take care that the shadow of the last element is still visible
+    &:last-of-type
+      margin-bottom: 5px
+
+  // Style shadow element while dragging
+  wp-single-card:host.gu-transit &
+    @include modifying--placeholder
+
+  &--content
+
+    &:not(.-new)
+      display: grid
+      grid-template-columns: max-content max-content max-content max-content 1fr
+      grid-template-rows: auto auto 1fr auto
+      grid-row-gap: 5px
+      grid-column-gap: 5px
+      grid-template-areas: "project type status status status" "subject subject subject subject subject" "image image image image image" "avatar avatar avatar dates dates"
+      overflow: hidden
+      flex-grow: 1
+      font-size: 14px
+      line-height: 16px
+
+    &-project-name
+      grid-area: project
+      font-style: italic
+      color: var(--gray-dark)
+      @include text-shortener
+      max-width: 80px
+    &-type
+      grid-area: type
+    &-subject
+      grid-area: subject
+      @include text-shortener(false)
+    &-assignee
+      grid-area: avatar
+      place-self: center left
+      color: var(--gray-dark)
+      font-size: 12px
+    &-status
+      grid-area: status
+      margin-right: 5px
+      place-self: center start
+      overflow: hidden
+      max-width: -webkit-fill-available
+      max-width: -moz-fill-available
+      max-width: fill-available
+
+    &-cover-image
+      grid-area: image
+      max-height: 350px
+
+      @media screen and (max-width: 679px)
+        max-height: 250px
+
+    &-dates
+      grid-area: dates
+      place-self: center end
+      white-space: nowrap
+      color: var(--gray-dark)
+      font-size: 12px
+
+  &--highlighting
+    width: 5px
+    height: 100%
+    position: absolute
+    top: 0
+    left: 0
+    border-radius: 2px 0 0 2px
+
+  &--inline-buttons
+    position: absolute
+    top: 9px
+    opacity: 0
+    background: white
+    width: 80px
+
+    &.-show, .op-wp-single-card:hover &
+      opacity: 1
+
+    .op-wp-single-card_checked &
+      background-color: var(--table-row-highlighting-color)
+
+  &--inline-cancel-button
+    color: var(--warn)
+
+  @media only screen and (max-width: 679px)
+    &_shrink
+      border: none
+      box-shadow: none
+      padding: 15px
